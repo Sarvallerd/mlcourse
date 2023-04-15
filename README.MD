@@ -1,0 +1,1 @@
+In this repository there are notebooks with assignments for the course from ODS mlcourse.ai
